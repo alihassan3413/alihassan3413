@@ -1,69 +1,114 @@
+# Ali Hassan  
 
-  Ali Hassan
-  Full Stack Web Developer & Software Engineer
-  
-    Lahore, Pakistan | alihassan@gmail.com | 
-    LinkedIn | 
-    GitHub | 
-    LeetCode
-  
+### Full-Stack Developer · AI Engineer · API Integration Specialist  
 
+---
 
+## 👋 Introduction  
 
-About
-A passionate Full Stack Web Developer and Software Engineer with over three years of experience in building scalable, high-performance web applications. Specializing in API integration, automation, SaaS development, and DevOps, I deliver innovative solutions that drive efficiency and impact. Inspired by precision and creativity, I aim to craft seamless digital experiences.
+Hello! I’m **Ali Hassan**, a **Full-Stack Developer and AI Engineer** from Lahore, Pakistan.  
+With 3+ years of professional experience, I focus on **API integrations, SaaS development, and automation**.  
+My approach combines **clarity in architecture** with **pragmatic engineering**, ensuring that software not only works but **scales reliably**.  
 
-Education
-Bachelor of Computer ScienceComsats University, Lahore2020 – 2024
+I enjoy leading teams, solving complex integration challenges, and bringing modern web + AI technologies into real-world business contexts.  
 
-Expertise
+---
 
-Backend: Laravel, PHP, Node.js, Express.js, TypeScript  
-Frontend: Vue.js, Nuxt.js, React, Tailwind CSS  
-Databases: MySQL, PostgreSQL  
-DevOps: Docker, Kubernetes, Nginx, Linux, Git  
-APIs: REST, GraphQL, Shopify API
+## 🎯 Philosophy  
 
+I believe that **good engineering = balance**:  
+- _Clean enough to maintain_  
+- _Fast enough to scale_  
+- _Simple enough to onboard new developers_  
+- _Powerful enough to solve real business problems_  
 
-Experience
-Senior Full Stack Automation Developer & Team LeadRocketFlood (Remote)Feb 2025 – Present  
+> “Build simple. Scale smart. Measure impact.”  
 
-Spearhead API integrations for seamless data flow with third-party platforms.  
-Developed automation systems, reducing manual processing by 40%.  
-Lead and mentor a team to deliver high-quality features on schedule.
+---
 
-Junior Full Stack DeveloperNBTHUB (On-Site)Dec 2022 – Jan 2025  
+## 🛠 Technical Expertise  
 
-Built scalable SaaS applications using Laravel, Vue.js, and MySQL.  
-Enhanced UI/UX and optimized backend performance for multi-vendor platforms.
+**Backend Development**  
+- Laravel, PHP, Node.js, Express.js, TypeScript, JavaScript  
 
-Freelance Full Stack Developer2025 – Present  
+**Frontend Development**  
+- Vue.js, Nuxt.js, React, Tailwind CSS  
 
-Delivered custom SaaS solutions and automation tools for clients.
+**Databases**  
+- MySQL, PostgreSQL  
 
+**DevOps & Infrastructure**  
+- Docker, Kubernetes, Nginx, Linux Server Management, Git  
 
-Projects
+**AI & Automation**  
+- LangChain.js, Playwright, Workflow Automation, TensorFlow basics  
 
-SHOP365 SaaS PlatformMulti-vendor application with dashboards, order management, and payment integrations (Laravel, Vue.js).  
+---
 
-Email Automation SystemCampaign scheduling platform for RocketFlood CRM, streamlining communications.  
+## 🚀 Key Projects  
 
-RocketFlood WebsiteDesigned and developed a modern, responsive company website.  
+### RocketFlood — API Integrations  
+- Designed & implemented **carrier + data API integrations** across quoting workflows  
+- Result: **~40% reduction in quote turnaround time** through automation  
+- Involved team leadership, API mapping, and mentoring developers  
 
-Playwright Automation BotAutomated insurance quote retrieval for RocketFlood.  
+### SHOP365 (SaaS Platform)  
+- Multi-vendor platform with vendor dashboards, order management, and integrated payments  
+- Built with **Laravel + Vue.js**  
+- 🔗 [Live Project](https://theshop365.com/home)  
 
-Discord-Git Webhook IntegrationBuilt CI/CD notification system for NBTHUB using Discord and Git.
+### Email Automation System  
+- Built campaign scheduling & automation (similar to Brevo) into **RocketFlood CRM**  
+- Enabled marketing workflows and increased campaign efficiency  
 
+### Automation Bot (Playwright)  
+- Automated insurance quote retrieval from carrier portals  
+- Reduced manual agent effort, boosting operational efficiency  
 
+---
 
-Connect
+## 📈 Professional Experience  
 
-  
-    
-  
-  
-    
-  
-  
-    
-  
+**Senior Full Stack Automation Developer, Team Lead — RocketFlood (2025–Present)**  
+- Leading API integration + automation projects  
+- Reduced manual workflow time by **40%**  
+- Mentoring developers and ensuring timely delivery  
+
+**Junior Full Stack Developer — NBTHUB (2022–2025)**  
+- Built SaaS products and multi-vendor applications  
+- Worked on **Laravel + Vue.js + MySQL** stack  
+- Contributed to performance tuning and UI/UX improvements  
+
+**Freelance Full Stack Developer — Insurance SaaS (2025–Present)**  
+- Developed SaaS quoting systems for agencies  
+- Automated document generation & carrier integrations  
+
+---
+
+## 📊 Focus Areas in 2025  
+
+- **API-first architectures** for scalable platforms  
+- **AI-powered workflows** in production (LangChain.js, automation bots)  
+- **Performance tuning & scalability** for enterprise-grade systems  
+- **Team leadership & mentoring** for cross-functional projects  
+
+---
+
+## 🌱 Beyond Code  
+
+Outside development, I enjoy:  
+- 📸 **Photography & Video Editing** — telling stories through visuals  
+- 🎬 **Creative Media Production** — blending tech & creativity  
+- 📖 **Continuous Learning** — exploring new frameworks, AI tools, and automation practices  
+
+---
+
+## 🤝 Let’s Connect  
+
+- 🌐 [GitHub](https://github.com/alihassan3413)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/alihassan478/)  
+- 📧 [Email](mailto:aliupwork6@gmail.com)  
+
+---
+
+<p align="center"><sub>Thanks for visiting — feel free to connect or collaborate!</sub></p>
