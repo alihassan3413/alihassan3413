@@ -7,7 +7,7 @@
 ## 👋 Introduction  
 
 Hello! I’m **Ali Hassan**, a **Full-Stack Developer and AI Engineer** from Lahore, Pakistan.  
-With 3+ years of professional experience, I focus on **API integrations, SaaS development, and automation**.  
+With 4+ years of professional experience, I focus on **API integrations, SaaS development, and automation**.  
 My approach combines **clarity in architecture** with **pragmatic engineering**, ensuring that software not only works but **scales reliably**.  
 
 I enjoy leading teams, solving complex integration challenges, and bringing modern web + AI technologies into real-world business contexts.  
